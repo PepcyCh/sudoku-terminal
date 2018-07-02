@@ -1,0 +1,1 @@
+/usr/local/bin/g++-7  -O2 -std=c++11 -Wall -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Sudoku.dir/main.cpp.o  -o Sudoku src/libsource_lib.a -lstdc++ 

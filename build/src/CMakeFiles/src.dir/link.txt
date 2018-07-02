@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsrc.a  CMakeFiles/src.dir/Game.cpp.o CMakeFiles/src.dir/Grid.cpp.o CMakeFiles/src.dir/Sudoku.cpp.o CMakeFiles/src.dir/TDancingLinks.cpp.o
+/usr/bin/ranlib libsrc.a

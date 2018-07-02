@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsource_lib.a  CMakeFiles/source_lib.dir/Game.cpp.o CMakeFiles/source_lib.dir/Grid.cpp.o CMakeFiles/source_lib.dir/Sudoku.cpp.o
+/usr/bin/ranlib libsource_lib.a

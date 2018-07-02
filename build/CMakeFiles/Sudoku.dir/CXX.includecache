@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/Game.hpp
+string
+-
+Grid.cpp
+../src/Grid.cpp
+
+../src/Grid.cpp
+cstring
+-
+
+../src/Sudoku.hpp
+string
+-
+Game.hpp
+../src/Game.hpp
+
+/Users/apple/Pepcy_Ch/Program/Sudoku_ter/Sudoku_ter/main.cpp
+cstdio
+-
+Sudoku.hpp
+/Users/apple/Pepcy_Ch/Program/Sudoku_ter/Sudoku_ter/Sudoku.hpp
+

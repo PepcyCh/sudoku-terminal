@@ -1,0 +1,6 @@
+/Users/apple/Pepcy_Ch/Program/Sudoku_ter/Sudoku_ter/build/CMakeFiles/rebuild_cache.dir
+/Users/apple/Pepcy_Ch/Program/Sudoku_ter/Sudoku_ter/build/CMakeFiles/edit_cache.dir
+/Users/apple/Pepcy_Ch/Program/Sudoku_ter/Sudoku_ter/build/CMakeFiles/Sudoku.dir
+/Users/apple/Pepcy_Ch/Program/Sudoku_ter/Sudoku_ter/build/src/CMakeFiles/rebuild_cache.dir
+/Users/apple/Pepcy_Ch/Program/Sudoku_ter/Sudoku_ter/build/src/CMakeFiles/edit_cache.dir
+/Users/apple/Pepcy_Ch/Program/Sudoku_ter/Sudoku_ter/build/src/CMakeFiles/source_lib.dir
